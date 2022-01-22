@@ -1,0 +1,9 @@
+[init]
+  defaultBranch = main
+[fetch]
+  prune = true
+[rebase]
+  autosquash = true
+[user]
+  name = gxuamethyst
+  email = gxuamethyst@gmail.com
