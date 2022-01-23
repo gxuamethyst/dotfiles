@@ -99,3 +99,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# proxy config
+alias proxy='export all_proxy=http://127.0.0.1:1087'
+alias unproxy='unset all_proxy'
