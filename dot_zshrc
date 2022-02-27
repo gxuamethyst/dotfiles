@@ -103,5 +103,3 @@ source $ZSH/oh-my-zsh.sh
 # proxy config
 alias proxy='export all_proxy=http://127.0.0.1:1087'
 alias unproxy='unset all_proxy'
-export PATH="/usr/local/opt/python@3.10/bin:$PATH"
-alias pip=/usr/local/opt/python@3.10/bin/pip3
