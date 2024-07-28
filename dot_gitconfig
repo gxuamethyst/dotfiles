@@ -1,14 +1,14 @@
 [init]
-  defaultBranch = main
+    defaultBranch = main
 [fetch]
-  prune = true
+    prune = true
 [rebase]
-  autosquash = true
+    autosquash = true
 [user]
-  name = gxuamethyst
-  email = gxuamethyst@gmail.com
+    name = gxuamethyst
+    email = gxuamethyst@gmail.com
 [pager]
-  branch = less -FRSX
-  diff = less -FRSX
-  log = less -FRSX
-  show = less -FRSX
+    branch = less -FRSX
+    diff = less -FRSX
+    log = less -FRSX
+    show = less -FRSX
